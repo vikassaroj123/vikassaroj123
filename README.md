@@ -1,11 +1,11 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 </div>
-<span style="color: black"> Some green text </span>
+<span > Some green text </span>
 
 ###
 
-<div align="center">
+<div style="color: black" align="center">
   <a href="https://www.linkedin.com/in/vikas-saroj-b86316229/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
