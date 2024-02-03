@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hello Vikas Saroj! Nice to meet you! 😊<br><br>🔭 I’m working as a third-year student and focusing on MERN stack development.<br>📚 I'm currently learning and expanding my skills in programming.<br>⚡ In my free time, I love to listen to old music, and I also enjoy contributing to projects on GitHub.</p>
+<p align="left">Hello! Nice to meet you! 😊<br><br>🔭 I’m working as a third-year student and focusing on MERN stack development.<br>📚 I'm currently learning and expanding my skills in programming.<br>⚡ In my free time, I love to listen to old music, and I also enjoy contributing to projects on GitHub.</p>
 
 ###
 
